@@ -1,0 +1,27 @@
+.wrapper {
+    height: 100vh;
+    background-color: #ffbfb3;
+    display: flex;
+    justify-content: center;
+}
+.content {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.form {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.form input {
+    height: 25px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.form textarea {
+    height: 193px;
+    width: 100%;
+}

@@ -1,0 +1,12 @@
+.skill {
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.icon {
+    width: 100px;
+    height: 100px;
+    background-color: #a03ca0;
+}
